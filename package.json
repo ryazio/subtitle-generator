@@ -1,0 +1,8 @@
+{
+  "name": "subtitle-generator",
+  "version": "0.0.1",
+  "description": "Creates srt subtitle format from a json object.",
+  "main": "index.js",
+  "author": "Panda",
+  "license": "MIT"
+}
