@@ -1,8 +1,9 @@
 {
   "name": "subtitle-generator",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Creates srt subtitle format from a json object.",
   "main": "index.js",
   "author": "Panda",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": "https://github.com/ryazio/subtitle-generator"
 }
